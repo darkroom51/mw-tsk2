@@ -1,0 +1,42 @@
+#largeBlackText {
+    font-size: 32px; 
+    font-weight: 700;
+    margin:0 0 18px;
+}
+
+#blackItalicParagraphText1,
+#blackItalicParagraphText2 {
+    font-style: italic; 
+    color: black;
+    margin: 10px 0;
+}
+
+#blueHiderLinkThing {
+    color: blue; 
+    text-decoration: underline; 
+    cursor: pointer;
+}
+
+#list1 {
+    visibility: hidden;
+    margin: 18px 0;
+    padding-left: 26px;
+}
+#list1 li span {
+    font-weight: bold; 
+    color: blue; 
+    display: inline;
+}
+#list1 li .bolder {
+    font-weight: bolder;
+}
+
+#note {
+    color: aqua; 
+    background: blue; 
+    padding: 10px;
+}
+
+.italic {
+    font-style: italic; 
+}
